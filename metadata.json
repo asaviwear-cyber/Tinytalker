@@ -1,0 +1,7 @@
+{
+  "name": "TinyTalkers",
+  "description": "A colorful, interactive educational app for children to learn letters and numbers with voice feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
